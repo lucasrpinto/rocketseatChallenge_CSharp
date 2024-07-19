@@ -36,3 +36,40 @@ namespace rocketseatChallenge;
         sumDouble.doubleNumber();
     }
 }*/
+
+
+// DESAFIO 4 - Crie um programa em que o usuário digita uma ou mais palavras e é exibido a quantidade de caracteres que a palavra inserida tem.
+
+/*class countCharacter
+{
+    static void Main()
+    {
+        characterCount characterCount = new characterCount();
+        characterCount.countChar();
+    }
+}*/
+
+
+
+//DESAFIO 5 - Crie um programa em que o usuário precisa digitar a placa de um veículo e o programa verifica se a placa é válida, seguindo o padrão brasileiro válido até 2018:
+
+/*class checkerBoard
+{
+    static void Main()
+    {
+        boardChecker checker = new boardChecker();
+        checker.board();
+    }
+}*/
+
+
+//DESAFIO 6 - rie um programa que solicita ao usuário a exibição da data atual em diferentes formatos.
+
+/*class dateCurrente
+{
+    static void Main()
+    {
+        currenteDate currenteDate = new currenteDate();
+        currenteDate.dataCurrente();
+    }
+}*/
